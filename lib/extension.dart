@@ -1,3 +1,8 @@
+/// Provides the marker location and the population data needed 
+/// to render the chart.
+
+
+
 const chart_ext = r''' var latlong = {};
 latlong.AD = {'latitude':42.5, 'longitude':1.5};
 latlong.AE = {'latitude':24, 'longitude':54};
